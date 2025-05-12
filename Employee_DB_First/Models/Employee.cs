@@ -15,22 +15,24 @@ public partial class Employee
     [StringLength(100)]
     [Unicode(false)]
     public string EmployeeNameArabic { get; set; } = null!;
+    [Display(Name = "Arabic Name")]
 
     [StringLength(100)]
     [Unicode(false)]
     public string EmployeeNameEnglish { get; set; } = null!;
-
+    [Display(Name = "Name")]
     [Column("DOB")]
     public DateOnly Dob { get; set; }
-
+    [Display(Name = "Date of Birth")]
     public DateOnly HiringDate { get; set; }
-
+    [Display(Name = "Hiring Date")]
     [Column(TypeName = "decimal(12, 2)")]
     public decimal Salary { get; set; }
-
+    [Display(Name = "Salary")]
     public int? CityId { get; set; }
-
+    [Display(Name = "City")]
     public int? DepartmentId { get; set; }
+    [Display(Name = "Department")]
 
     [ForeignKey("CityId")]
     [InverseProperty("Employees")]

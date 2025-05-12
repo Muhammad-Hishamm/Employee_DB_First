@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\wwwroot\\images\\vnn.png",
+      "PackagePath": "staticwebassets\\images\\vnn.png"
+    },
+    {
       "Id": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

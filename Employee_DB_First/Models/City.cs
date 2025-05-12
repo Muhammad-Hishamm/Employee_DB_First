@@ -20,4 +20,5 @@ public partial class City
 
     [InverseProperty("City")]
     public virtual ICollection<Employee> Employees { get; set; } = new List<Employee>();
+   
 }

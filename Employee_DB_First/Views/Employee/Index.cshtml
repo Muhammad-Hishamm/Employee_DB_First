@@ -7,32 +7,18 @@
 <h1>Index</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a class="btn btn-success" asp-action="Create"> Create New </a>
 </p>
 <table class="table">
     <thead>
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.EmployeeNameArabic)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.EmployeeNameEnglish)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Dob)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.HiringDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Salary)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.City)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Department)
-            </th>
+            <th> Arabic Name </th>
+            <th>Name </th>
+            <th>Date of Birth</th>
+            <th>Hiring Date  </th>
+            <th>Salary </th>
+            <th>City</th>
+            <th>Department</th>
             <th></th>
         </tr>
     </thead>
@@ -55,15 +41,15 @@
                 @Html.DisplayFor(modelItem => item.Salary)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.City.CityId)
+                @Html.DisplayFor(modelItem => item.City.CityNameEnglish)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Department.DepartmentId)
+                @Html.DisplayFor(modelItem => item.Department.DepartmentName)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.EmployeeId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.EmployeeId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.EmployeeId">Delete</a>
+                    <a class="btn btn-primary " asp-action="Edit" asp-route-id="@item.EmployeeId">Edit </a>
+                    <a class="btn btn-info " asp-action="Details" asp-route-id="@item.EmployeeId">Details </a>
+                    <a class="btn btn-danger"   asp-action="Delete" asp-route-id="@item.EmployeeId">Delete </a>
             </td>
         </tr>
 }
