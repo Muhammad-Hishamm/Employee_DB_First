@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|c:\\users\\muham\\onedrive\\desktop\\employee_db_first\\employee_db_first\\controllers\\citiycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|solutionrelative:employee_db_first\\controllers\\citiycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|c:\\users\\muham\\onedrive\\desktop\\employee_db_first\\employee_db_first\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|solutionrelative:employee_db_first\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|c:\\users\\muham\\onedrive\\desktop\\employee_db_first\\employee_db_first\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|solutionrelative:employee_db_first\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|c:\\users\\muham\\onedrive\\desktop\\employee_db_first\\employee_db_first\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|solutionrelative:employee_db_first\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|c:\\users\\muham\\onedrive\\desktop\\employee_db_first\\employee_db_first\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|solutionrelative:employee_db_first\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|c:\\users\\muham\\onedrive\\desktop\\employee_db_first\\employee_db_first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|solutionrelative:employee_db_first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|c:\\users\\muham\\onedrive\\desktop\\employee_db_first\\employee_db_first\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|solutionrelative:employee_db_first\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|c:\\users\\muham\\onedrive\\desktop\\employee_db_first\\employee_db_first\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|solutionrelative:employee_db_first\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|c:\\users\\muham\\onedrive\\desktop\\employee_db_first\\employee_db_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22852646-6D1B-48A9-9B7C-ED47DE5B1EC1}|Employee_DB_First\\Employee_DB_First.csproj|solutionrelative:employee_db_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Employee_DB_First\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Employee_DB_First\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T16:03:10.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Employee_DB_First\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Employee_DB_First\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T15:52:56.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Employee_DB_First\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Employee_DB_First\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAqwAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:47:44.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Employee_DB_First\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Employee_DB_First\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:44:56.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CitiyController.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\Controllers\\CitiyController.cs",
+              "RelativeDocumentMoniker": "Employee_DB_First\\Controllers\\CitiyController.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\Controllers\\CitiyController.cs",
+              "RelativeToolTip": "Employee_DB_First\\Controllers\\CitiyController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:20:47.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\Models\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Employee_DB_First\\Models\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\Models\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Employee_DB_First\\Models\\EmployeeDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA4wBcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:07:26.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\Program.cs",
+              "RelativeDocumentMoniker": "Employee_DB_First\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\Program.cs",
+              "RelativeToolTip": "Employee_DB_First\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:55:58.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee_DB_First\\appsettings.json",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\appsettings.json",
+              "RelativeToolTip": "Employee_DB_First\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T23:55:33.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Employee_DB_First\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\Employee_DB_First\\Employee_DB_First\\appsettings.Development.json",
+              "RelativeToolTip": "Employee_DB_First\\appsettings.Development.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T12:56:08.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
