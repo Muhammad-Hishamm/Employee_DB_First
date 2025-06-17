@@ -1,2 +1,2 @@
 # Employee_DB_First
-Scaffolding CRUD Operations in ASP.NET Core MVC
+A full-stack web application for managing employee records, built using ASP.NET Core MVC with a Database First approach. The project utilizes scaffolding to automatically generate CRUD operations (Create, Read, Update, Delete), streamlining the development process. The frontend is crafted with HTML, CSS, and JavaScript, offering a clean and responsive interface, while the backend efficiently handles data through Entity Framework and integration with a SQL database.
